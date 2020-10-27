@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d58b09c4-552a-4ec8-b35c-51d74c213c16" name="Default Changelist" comment="" />
+    <list default="true" id="d58b09c4-552a-4ec8-b35c-51d74c213c16" name="Default Changelist" comment="tik">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,8 +60,16 @@
       <workItem from="1601580046003" duration="1306000" />
       <workItem from="1601582036776" duration="1688000" />
       <workItem from="1601583872821" duration="1067000" />
-      <workItem from="1603820151672" duration="306000" />
+      <workItem from="1603820151672" duration="616000" />
     </task>
+    <task id="LOCAL-00001" summary="tik">
+      <created>1603820583577</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603820583577</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -58,10 +86,18 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tik" />
+    <option name="LAST_COMMIT_MESSAGE" value="tik" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="457" y="231" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601575773533">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="457" y="231" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860@0.0.1440.860" timestamp="1601575773533" />
+    <state x="278" y="135" width="800" height="530" key="Vcs.Push.Dialog.v2" timestamp="1603820588538">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="278" y="135" width="800" height="530" key="Vcs.Push.Dialog.v2/0.30.1366.738@0.30.1366.738" timestamp="1603820588538" />
   </component>
 </project>
